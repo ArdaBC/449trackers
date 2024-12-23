@@ -6,7 +6,7 @@ Run keyboard_mouse_tracker.py or xbox_tracker.py based on the test.
 
 Note:
 
-You need CMake. Get Windows x64 ZIP from https://cmake.org/download/ and add it to the path.
+You need CMake. Get Windows x64 ZIP from https://cmake.org/download/ and extract it into a drive (C, D whatever) and make sure to add its binary to the path.
 
 You also need to do pip install dlib
 
